@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   Here is the final result of the challenge - 
 
 
-![](./images/final_qr.jpg)
+![](images/final_qr.png)
 
   
 
