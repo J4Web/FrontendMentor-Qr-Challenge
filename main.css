@@ -8,14 +8,15 @@ body{
 font-family: 'Outfit', sans-serif;
 }
 .card{
-    width: 300px;
+  width: 18rem;
     margin: 0 auto;
     padding: 20px;
     background: hsl(0, 0%, 100%);
     border: 1px solid #ccc;
-    border-radius: 15px;
+    border-radius: 1rem;
     display: relative;
-    transform: translateY(50%);
+    /* top: 50%; */
+    transform: translateY(22%);
 
 }
 .qr-code {
@@ -24,8 +25,8 @@ font-family: 'Outfit', sans-serif;
   }
   .text {
     font-weight: 700;
-    margin-top: 10px;
-    font-size: 15px;
+    margin-top: 0.8rem;
+    font-size: 1rem;
     line-height: 1.5;
     text-align: center;
   }
@@ -35,7 +36,7 @@ font-family: 'Outfit', sans-serif;
 
   .text > .btm-txt{
     font-family: 400;
-    margin-top: 10px;
+    margin-top: 0.8rem;
     color: rgba(151,154,161,255);
   }
 
