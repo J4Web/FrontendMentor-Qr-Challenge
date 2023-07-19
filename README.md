@@ -28,7 +28,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  
 
 ## Overview
-
+-The goal of the challenge is to create a card layout that includes a QR code. 
+The card layout should be visually appealing and well-structured. 
+It's important to note that the card layout does not shift, which makes it an ideal exercise for beginners who are still learning about building responsive designs.
   
 
 ### Screenshot
