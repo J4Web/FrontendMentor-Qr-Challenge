@@ -92,8 +92,8 @@ It's important to note that the card layout does not shift, which makes it an id
 
   
 
-- Website - [j4web](https://www.your-site.com)
+- Website - [j4web](https://www.github.com/j4web)
 
-- Frontend Mentor - [@j4web](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [j4web](https://www.frontendmentor.io/profile/j4web)
 
 - Twitter - [@j4web31](https://www.twitter.com/j4web31)
