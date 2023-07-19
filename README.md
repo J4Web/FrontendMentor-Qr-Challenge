@@ -48,7 +48,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL here]([J4Web/FrontendMentor-Qr-Challenge: Frontend Mentor QR code component challenge. (github.com)](https://github.com/J4Web/FrontendMentor-Qr-Challenge))
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Demo-Link](https://j4web.github.io/FrontendMentor-Qr-Challenge/)
 
   
 
